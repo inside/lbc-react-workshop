@@ -23,3 +23,118 @@
   top: 50%;
   transform: translateY(-50%);
 }
+
+ul.gallery {
+  list-style: none;
+}
+
+ul.gallery li {
+  border: 1px solid black;
+  padding: 2px;
+  margin: 5px;
+  float: left;
+  width: 200px;
+  height: 250px;
+  overflow: hidden;
+}
+
+ul.gallery li img {
+  width: 200px;
+  height: 200px;
+}
+
+/*ul.gallery {*/
+  /*display: -ms-flexbox;*/
+  /*-ms-flex-direction: column;*/
+  /*-ms-flex-wrap: wrap;*/
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*flex-wrap: wrap;*/
+  /*height: 100vw;*/
+  /*font-size: 0;*/
+/*}*/
+
+/*ul.gallery li {*/
+  /*width: 33.3%;*/
+  /*transition: .8s opacity;*/
+/*}*/
+
+/*ul.gallery:hover img {*/
+  /*opacity: 0.3;*/
+/*}*/
+
+/*ul.gallery:hover img:hover {*/
+  /*opacity: 1;*/
+/*}*/
+
+/** { margin: 0; padding: 0; border: 0; }*/
+
+/*body {*/
+  /*background: #959796 url(images/wood-repeat.jpg);*/
+/*}*/
+
+/*#container {*/
+  /*width: 600px; margin: 40px auto;*/
+/*}*/
+
+/*ul.gallery {*/
+  /*list-style: none;*/
+  /*width: 33%;*/
+/*}*/
+
+/*ul.gallery li {*/
+  /*float: left;*/
+  /*width: 200px;*/
+  /*height: 250px;*/
+  /*overflow: hidden;*/
+/*}*/
+
+/*ul.gallery li img {*/
+  /*width: 200px;*/
+  /*height: 200px;*/
+/*}*/
+
+/*ul.gallery li a {*/
+  /*position: relative;*/
+  /*float: left;*/
+  /*padding: 10px 10px 25px 10px;*/
+  /*background: #eee;*/
+  /*border: 1px solid #fff;*/
+  /*-moz-box-shadow: 0px 2px 15px #333;*/
+/*}*/
+
+/*ul.gallery li a.pic-1 {
+  z-index: 1;
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+}
+ul.gallery li a.pic-2 {
+  z-index: 5;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+}
+ul.gallery li a.pic-3 {
+  z-index: 3;
+  -webkit-transform: rotate(4deg);
+  -moz-transform: rotate(4deg);
+}
+ul.gallery li a.pic-4 {
+  z-index: 4;
+  -webkit-transform: rotate(14deg);
+  -moz-transform: rotate(14deg);
+}
+ul.gallery li a.pic-5 {
+  z-index: 2;
+  -webkit-transform: rotate(-12deg);
+  -moz-transform: rotate(-12deg);
+}
+ul.gallery li a.pic-6 {
+  z-index: 6;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+}
+
+ul.gallery li a:hover {
+  z-index: 10;
+  -moz-box-shadow: 3px 5px 15px #333;
+}*/
