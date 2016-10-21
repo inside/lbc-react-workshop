@@ -12,9 +12,6 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo center-v" alt="logo" />
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
         <ul className="gallery">
           {page1.ads.map(ad => (
             <Ad
