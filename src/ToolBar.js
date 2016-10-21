@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ToolBar = ({onCategoryChange, onPriceSortChange}) => (
+const ToolBar = ({onCategoryChange, onPriceSortChange, onMoreAdsClick}) => (
   <div className="App-toolbar">
     <label htmlFor="category">Categorie :</label>
     <select id="category" name="category" onChange={onCategoryChange}>
@@ -21,6 +21,7 @@ const ToolBar = ({onCategoryChange, onPriceSortChange}) => (
       <option value="asc">ascendant</option>
       <option value="desc">descendant</option>
     </select>
+    <button onClick={onMoreAdsClick}>Plus d'annonces</button>
   </div>
 )
 

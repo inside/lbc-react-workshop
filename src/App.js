@@ -14,10 +14,12 @@ class App extends Component {
     this.state = {
       ads: props.ads,
       sort: '',
+      page: 1,
     }
 
     this.onCategoryChange = this.onCategoryChange.bind(this)
     this.onPriceSortChange = this.onPriceSortChange.bind(this)
+    this.onMoreAdsClick = this.onMoreAdsClick.bind(this)
   }
 
   onCategoryChange(e) {
@@ -47,6 +49,20 @@ class App extends Component {
     return ads.sort(sortFunc)
   }
 
+  onMoreAdsClick() {
+    console.log('onMoreAdsClick')
+    const page = this.state.page + 1
+
+    fetch(`/mocked_api/ads.page-${page}.json`).then(response => {
+      response.json().then(json => {
+        this.setState({
+          ads: [...this.state.ads, ...json.ads],
+          page,
+        })
+      })
+    })
+  }
+
   render() {
     return (
       <div className="App">
@@ -56,6 +72,7 @@ class App extends Component {
         <ToolBar
           onCategoryChange={this.onCategoryChange}
           onPriceSortChange={this.onPriceSortChange}
+          onMoreAdsClick={this.onMoreAdsClick}
         />
         <ul className="gallery">
           {this.state.ads.map(ad => (
