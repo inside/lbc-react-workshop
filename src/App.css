@@ -23,3 +23,35 @@
   top: 50%;
   transform: translateY(-50%);
 }
+
+ul.gallery {
+  list-style: none;
+  width: 80%;
+  margin: auto;
+  padding: 0;
+}
+
+ul.gallery li.ad {
+  position: relative;
+  border: 1px solid black;
+  padding: 2px;
+  margin: 5px;
+  float: left;
+  width: 200px;
+  height: 268px;
+  overflow: hidden;
+}
+
+ul.gallery li.ad img {
+  width: 200px;
+  height: 200px;
+}
+
+li.ad span.price {
+  display: block;
+  position: absolute;
+  bottom: 2px;
+  width: 200px;
+  text-align: center;
+  height: 18px;
+}
