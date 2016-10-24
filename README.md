@@ -31,3 +31,17 @@ Then go to http://localhost:3000/
 ## Developing
 
 Source files are in the `src/` directory. Start by editing `src/App.js`.
+
+Here's a html snippet we will use in our app:
+```
+      <option value="">Toutes</option>
+      <option value="divers">divers</option>
+      <option value="immobilier">immobilier</option>
+      <option value="loisirs">loisirs</option>
+      <option value="maison">maison</option>
+      <option value="materiel_professionnel">materiel_professionnel</option>
+      <option value="multimedia">multimedia</option>
+      <option value="services">services</option>
+      <option value="vacances">vacances</option>
+      <option value="vehicules">vehicules</option>
+```
