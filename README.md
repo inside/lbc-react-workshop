@@ -14,16 +14,20 @@ A React Workshop for building a simple product list.
 ## Installation
 
 ```bash
-git clone git@github.com:inside/lbc-react-workshop.git
+$ git clone git@github.com:inside/lbc-react-workshop.git
 # If using ssh fails, you can use https:
-git clone https://github.com/inside/lbc-react-workshop.git
-cd lbc-react-workshop
-npm install
+$ git clone https://github.com/inside/lbc-react-workshop.git
+$ cd lbc-react-workshop
+$ npm install
 ```
 
 ## Running
 ```
-npm start
+$ npm start
 ```
 
 Then go to http://localhost:3000/
+
+## Developing
+
+Source files are in the `src/` directory. Start by editing `src/App.js`.
