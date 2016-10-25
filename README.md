@@ -9,7 +9,7 @@ A React Workshop for building a simple product list.
   upgrade it with: `sudo npm install npm@latest -g`
 
 * A recent node version
-  `sudo apt-get install n && sudo n latest`
+  `sudo npm install n && sudo n latest`
 
 ## Installation
 
