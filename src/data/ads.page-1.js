@@ -42,7 +42,7 @@ const page1 = {
         "//img0.leboncoin.fr/images/2a5/2a5d78c8489c4ced54abf6566b15cb6c5ff2c8b3.jpg"
       ],
       "images_thumbs": [
-        "//img0.leboncoin.fr/thumbs/f83/f837591f3dd7a0bd9670e9c5a5da0284f9b8a5da.jpg",
+        "/images/f837591f3dd7a0bd9670e9c5a5da0284f9b8a5da.jpg",
         "//img1.leboncoin.fr/thumbs/f7a/f7a858be3eae9e5a3e7427c7f2c9b91063faac96.jpg",
         "//img0.leboncoin.fr/thumbs/2a5/2a5d78c8489c4ced54abf6566b15cb6c5ff2c8b3.jpg"
       ]
@@ -87,7 +87,7 @@ const page1 = {
         "//img3.leboncoin.fr/images/a10/a10aacfef98f31ad4a1879a3e57779084189bc5b.jpg"
       ],
       "images_thumbs": [
-        "//img3.leboncoin.fr/images/a10/a10aacfef98f31ad4a1879a3e57779084189bc5b.jpg"
+        "/images/a10aacfef98f31ad4a1879a3e57779084189bc5b.jpg"
       ]
     },
     {
@@ -127,10 +127,10 @@ const page1 = {
       "name": "po",
       "subject": "Jeux xbox 360",
       "images": [
-        "//img7.leboncoin.fr/images/21b/21b81b4d383ea63b103274cb8d9933047ecad569.jpg"
+        "//img7.leboncoin.fr/images/21b81b4d383ea63b103274cb8d9933047ecad569.jpg"
       ],
       "images_thumbs": [
-        "//img7.leboncoin.fr/images/21b/21b81b4d383ea63b103274cb8d9933047ecad569.jpg"
+        "/images/21b81b4d383ea63b103274cb8d9933047ecad569.jpg"
       ]
     },
     {
@@ -175,7 +175,7 @@ const page1 = {
         "//img0.leboncoin.fr/ad-large/f75b048226b4090a040407946ca1ed24ec21f258.jpg"
       ],
       "images_thumbs": [
-        "//img5.leboncoin.fr/ad-thumb/23398b95a38c65afa4b858bb276edf51b0876501.jpg",
+        "/images/23398b95a38c65afa4b858bb276edf51b0876501.jpg",
         "//img7.leboncoin.fr/ad-thumb/0894688660b2bd64f58ed4ce65d89986420acd35.jpg",
         "//img0.leboncoin.fr/ad-thumb/f75b048226b4090a040407946ca1ed24ec21f258.jpg"
       ]
@@ -220,7 +220,7 @@ const page1 = {
         "//img2.leboncoin.fr/images/7e3/7e3e86ef4c3bb47274842a205abe1c21d1a8ba5b.jpg"
       ],
       "images_thumbs": [
-        "//img2.leboncoin.fr/images/7e3/7e3e86ef4c3bb47274842a205abe1c21d1a8ba5b.jpg"
+        "/images/7e3e86ef4c3bb47274842a205abe1c21d1a8ba5b.jpg"
       ]
     },
     {
@@ -304,9 +304,9 @@ const page1 = {
         "//img6.leboncoin.fr/ad-image/b2b21742c89cde58cfb944a046760f06729703b8.jpg"
       ],
       "images_thumbs": [
-        "//img1.leboncoin.fr/ad-thumb/d5d2d0c10ac09154936ed2cd1f4b258f45313c2c.jpg",
-        "//img3.leboncoin.fr/ad-thumb/b27a77d96d54b5d5f6515c4a06139ecd8e786ed9.jpg",
-        "//img6.leboncoin.fr/ad-thumb/b2b21742c89cde58cfb944a046760f06729703b8.jpg"
+        "/images/d5d2d0c10ac09154936ed2cd1f4b258f45313c2c.jpg",
+        "/images/b27a77d96d54b5d5f6515c4a06139ecd8e786ed9.jpg",
+        "/images/b2b21742c89cde58cfb944a046760f06729703b8.jpg"
       ]
     },
     {
@@ -349,7 +349,7 @@ const page1 = {
         "//img4.leboncoin.fr/images/9f4/9f4802266be35a398225692d925561fd411fa158.jpg"
       ],
       "images_thumbs": [
-        "//img4.leboncoin.fr/images/9f4/9f4802266be35a398225692d925561fd411fa158.jpg"
+        "/images/9f4802266be35a398225692d925561fd411fa158.jpg"
       ]
     },
     {
@@ -394,7 +394,7 @@ const page1 = {
         "//img0.leboncoin.fr/ad-large/a32f11f09ded4906d43da764e0873c8520a45b3a.jpg"
       ],
       "images_thumbs": [
-        "//img1.leboncoin.fr/ad-thumb/34a9faecfdf6c54b91b36798519b5247cdbe93a6.jpg",
+        "/images/34a9faecfdf6c54b91b36798519b5247cdbe93a6.jpg",
         "//img1.leboncoin.fr/ad-thumb/4fb9eab9a23d9d8fba30337cd41d64455cb7299f.jpg",
         "//img0.leboncoin.fr/ad-thumb/a32f11f09ded4906d43da764e0873c8520a45b3a.jpg"
       ]
@@ -439,7 +439,7 @@ const page1 = {
         "//img6.leboncoin.fr/images/aa4/aa4ab6ea95bf21fb3049f16d6580385df1995616.jpg"
       ],
       "images_thumbs": [
-        "//img6.leboncoin.fr/images/aa4/aa4ab6ea95bf21fb3049f16d6580385df1995616.jpg"
+        "/images/aa4ab6ea95bf21fb3049f16d6580385df1995616.jpg"
       ]
     },
     {
@@ -482,7 +482,7 @@ const page1 = {
         "//img1.leboncoin.fr/images/ec7/ec7f958fa1087cd9e3c85a7ca29072f319b9cc5d.jpg"
       ],
       "images_thumbs": [
-        "//img1.leboncoin.fr/images/ec7/ec7f958fa1087cd9e3c85a7ca29072f319b9cc5d.jpg"
+        "/images/ec7f958fa1087cd9e3c85a7ca29072f319b9cc5d.jpg"
       ]
     },
     {
@@ -527,7 +527,7 @@ const page1 = {
         "//img0.leboncoin.fr/ad-large/788efb9b5fc89f7c50dd4b12ea25f9c2ebb75838.jpg"
       ],
       "images_thumbs": [
-        "//img3.leboncoin.fr/ad-thumb/6cf835c9d6a7b45e6e969b9f4b7ab1fa9d9fac10.jpg",
+        "/images/6cf835c9d6a7b45e6e969b9f4b7ab1fa9d9fac10.jpg",
         "//img6.leboncoin.fr/ad-thumb/54f6d288c7fd6a6bb32f31836e69071da3383159.jpg",
         "//img0.leboncoin.fr/ad-thumb/788efb9b5fc89f7c50dd4b12ea25f9c2ebb75838.jpg"
       ]
@@ -573,7 +573,7 @@ const page1 = {
         "//img2.leboncoin.fr/ad-large/55eb7c6a80148adfb422b59a20ddb78e03fb66e4.jpg"
       ],
       "images_thumbs": [
-        "//img1.leboncoin.fr/ad-thumb/a9c6ed2a0d558780ea223822e9f80717e24314f9.jpg",
+        "/images/a9c6ed2a0d558780ea223822e9f80717e24314f9.jpg",
         "//img2.leboncoin.fr/ad-thumb/55eb7c6a80148adfb422b59a20ddb78e03fb66e4.jpg"
       ]
     },
@@ -619,7 +619,7 @@ const page1 = {
         "//img0.leboncoin.fr/ad-large/b75fe72b8f62db49a216631fae9cfa88fea8bf8a.jpg"
       ],
       "images_thumbs": [
-        "//img3.leboncoin.fr/ad-thumb/f8a190d8fced31339b0e712c34967fbad220dc0f.jpg",
+        "/images/f8a190d8fced31339b0e712c34967fbad220dc0f.jpg",
         "//img4.leboncoin.fr/ad-thumb/5264f497932c7345757f4b8c0f0209c65b675be3.jpg",
         "//img0.leboncoin.fr/ad-thumb/b75fe72b8f62db49a216631fae9cfa88fea8bf8a.jpg"
       ]
@@ -672,7 +672,7 @@ const page1 = {
         "//img4.leboncoin.fr/ad-large/70934b3636cfdc6288d379d51a224eba77b0f13f.jpg"
       ],
       "images_thumbs": [
-        "//img2.leboncoin.fr/ad-thumb/9eb3f44082a1f9f52256e8672b3871033863d24f.jpg",
+        "/images/9eb3f44082a1f9f52256e8672b3871033863d24f.jpg",
         "//img0.leboncoin.fr/ad-thumb/413f91cdc11ca6a859d2620f2b23b248c3efa55c.jpg",
         "//img0.leboncoin.fr/ad-thumb/335902334e6b9622ad71fad5b5205b3824e45673.jpg",
         "//img5.leboncoin.fr/ad-thumb/e988a34b0842004df624238e6e56d90cc3ddad57.jpg",
@@ -725,7 +725,7 @@ const page1 = {
         "//img7.leboncoin.fr/xxl/51b/51b8cb8e202c716d0497e77f7b3009e72aaaf72d.jpg"
       ],
       "images_thumbs": [
-        "//img1.leboncoin.fr/thumbs/537/537130323bd85920a2bedf4d1f37c67bacc353c4.jpg",
+        "/images/537130323bd85920a2bedf4d1f37c67bacc353c4.jpg",
         "//img0.leboncoin.fr/thumbs/24f/24fd26e0834ce7b2bea10cc0daade799672d9dcb.jpg",
         "//img7.leboncoin.fr/thumbs/51b/51b8cb8e202c716d0497e77f7b3009e72aaaf72d.jpg"
       ]
@@ -770,7 +770,7 @@ const page1 = {
         "//img3.leboncoin.fr/images/2a2/2a22a7844bb80c6d7d369b55ee0abec687d512ff.jpg"
       ],
       "images_thumbs": [
-        "//img3.leboncoin.fr/images/2a2/2a22a7844bb80c6d7d369b55ee0abec687d512ff.jpg"
+        "/images/2a22a7844bb80c6d7d369b55ee0abec687d512ff.jpg"
       ]
     },
     {
@@ -815,7 +815,7 @@ const page1 = {
         "//img7.leboncoin.fr/images/cf8/cf8e1ac6d48a4ab4b45c9ef53efba441b11ef3a7.jpg"
       ],
       "images_thumbs": [
-        "//img0.leboncoin.fr/thumbs/9e9/9e9ac9d3c1d64c5cb2b0d02c622793381610fca3.jpg",
+        "/images/9e9ac9d3c1d64c5cb2b0d02c622793381610fca3.jpg",
         "//img4.leboncoin.fr/thumbs/722/72219bf634a4b1f5b2ec9e5dd9c17016b1c483b6.jpg",
         "//img7.leboncoin.fr/thumbs/cf8/cf8e1ac6d48a4ab4b45c9ef53efba441b11ef3a7.jpg"
       ]
@@ -860,7 +860,7 @@ const page1 = {
         "//img4.leboncoin.fr/images/aac/aacee132ffec70f13f557883189090b5bd257a50.jpg"
       ],
       "images_thumbs": [
-        "//img4.leboncoin.fr/images/aac/aacee132ffec70f13f557883189090b5bd257a50.jpg"
+        "/images/aacee132ffec70f13f557883189090b5bd257a50.jpg"
       ]
     },
     {
@@ -905,7 +905,7 @@ const page1 = {
         "//img4.leboncoin.fr/ad-large/83ec6b9c73a161538fdeb3e3e46fa9666c8c10ef.jpg"
       ],
       "images_thumbs": [
-        "//img7.leboncoin.fr/ad-thumb/88f995b5f1807003d0554b57fd992bf2f0e10bc5.jpg",
+        "/images/88f995b5f1807003d0554b57fd992bf2f0e10bc5.jpg",
         "//img6.leboncoin.fr/ad-thumb/ae4790a689054770d6a659caf045aaaf56dfbb06.jpg",
         "//img4.leboncoin.fr/ad-thumb/83ec6b9c73a161538fdeb3e3e46fa9666c8c10ef.jpg"
       ]
@@ -951,7 +951,7 @@ const page1 = {
         "//img4.leboncoin.fr/ad-large/bdf0cdbdcd8564d56ec385892c5435e12782b442.jpg"
       ],
       "images_thumbs": [
-        "//img2.leboncoin.fr/ad-thumb/ba02d870a8ddb41b0daf3326e13c981b932c9754.jpg",
+        "/images/ba02d870a8ddb41b0daf3326e13c981b932c9754.jpg",
         "//img4.leboncoin.fr/ad-thumb/bdf0cdbdcd8564d56ec385892c5435e12782b442.jpg"
       ]
     },
@@ -995,7 +995,7 @@ const page1 = {
         "//img5.leboncoin.fr/images/12a/12a8883b148f53a5dd0deecb0ad84fd8f917c4d7.jpg"
       ],
       "images_thumbs": [
-        "//img5.leboncoin.fr/images/12a/12a8883b148f53a5dd0deecb0ad84fd8f917c4d7.jpg"
+        "/images/12a8883b148f53a5dd0deecb0ad84fd8f917c4d7.jpg"
       ]
     },
     {
@@ -1040,7 +1040,7 @@ const page1 = {
         "//img1.leboncoin.fr/ad-large/a2e369a2f7fd168ca8ef53dc29c8ab445c14ed61.jpg"
       ],
       "images_thumbs": [
-        "//img0.leboncoin.fr/ad-thumb/e517b095e95fe473da07aad782be571c0824a2e2.jpg",
+        "/images/e517b095e95fe473da07aad782be571c0824a2e2.jpg",
         "//img7.leboncoin.fr/ad-thumb/99dc02194aed231ca2a2312e9c187f3b52396807.jpg",
         "//img1.leboncoin.fr/ad-thumb/a2e369a2f7fd168ca8ef53dc29c8ab445c14ed61.jpg"
       ]
@@ -1087,7 +1087,7 @@ const page1 = {
         "//img1.leboncoin.fr/ad-large/8b1f7ae8fbbd3bea98528da04ef1fc3d1088c71b.jpg"
       ],
       "images_thumbs": [
-        "//img7.leboncoin.fr/ad-thumb/40a040c121b7f86be2e03bab0fcb4076bd67db96.jpg",
+        "/images/40a040c121b7f86be2e03bab0fcb4076bd67db96.jpg",
         "//img7.leboncoin.fr/ad-thumb/931b883ee1f31c9e31d30548e5bcd0203bb847d1.jpg",
         "//img1.leboncoin.fr/ad-thumb/8b1f7ae8fbbd3bea98528da04ef1fc3d1088c71b.jpg"
       ]
@@ -1132,7 +1132,7 @@ const page1 = {
         "//img2.leboncoin.fr/images/845/8457b5fc9d09eafb31d099d094fd53cdb05e5480.jpg"
       ],
       "images_thumbs": [
-        "//img2.leboncoin.fr/images/845/8457b5fc9d09eafb31d099d094fd53cdb05e5480.jpg"
+        "/images/8457b5fc9d09eafb31d099d094fd53cdb05e5480.jpg"
       ]
     },
     {
@@ -1176,7 +1176,7 @@ const page1 = {
         "//img6.leboncoin.fr/xxl/e85/e85dcf09423ed2eb1ee31ed5e086ac232463599e.jpg"
       ],
       "images_thumbs": [
-        "//img7.leboncoin.fr/thumbs/53e/53e52309435376d9f3368b94a3735aa9743aa003.jpg",
+        "/images/53e52309435376d9f3368b94a3735aa9743aa003.jpg",
         "//img6.leboncoin.fr/thumbs/e85/e85dcf09423ed2eb1ee31ed5e086ac232463599e.jpg"
       ]
     },
@@ -1220,7 +1220,7 @@ const page1 = {
         "//img4.leboncoin.fr/images/ada/ada28437d8f2acf81b078415ea350e911f24a01d.jpg"
       ],
       "images_thumbs": [
-        "//img4.leboncoin.fr/images/ada/ada28437d8f2acf81b078415ea350e911f24a01d.jpg"
+        "/images/ada28437d8f2acf81b078415ea350e911f24a01d.jpg"
       ]
     },
     {
@@ -1263,7 +1263,7 @@ const page1 = {
         "//img6.leboncoin.fr/ad-large/7a56d7a8d8e3c53217dbab017765423d2b428cd8.jpg"
       ],
       "images_thumbs": [
-        "//img5.leboncoin.fr/ad-thumb/4cd680f01c1476b8d417e794a6ec467ff89788c2.jpg",
+        "/images/4cd680f01c1476b8d417e794a6ec467ff89788c2.jpg",
         "//img6.leboncoin.fr/ad-thumb/7a56d7a8d8e3c53217dbab017765423d2b428cd8.jpg"
       ]
     },
@@ -1307,7 +1307,7 @@ const page1 = {
         "//img5.leboncoin.fr/images/b2e/b2ebf64d2cb2b3e67ec8507d1bd1ba5cb0d2e143.jpg"
       ],
       "images_thumbs": [
-        "//img5.leboncoin.fr/images/b2e/b2ebf64d2cb2b3e67ec8507d1bd1ba5cb0d2e143.jpg"
+        "/images/b2ebf64d2cb2b3e67ec8507d1bd1ba5cb0d2e143.jpg"
       ]
     },
     {
@@ -1351,7 +1351,7 @@ const page1 = {
         "//img4.leboncoin.fr/ad-large/2dc83ab5075ec529d7ffdd8288503512f9e70fc2.jpg"
       ],
       "images_thumbs": [
-        "//img1.leboncoin.fr/ad-thumb/8340937f850d0e23699c8ea2ae14e19c507972dc.jpg",
+        "/images/8340937f850d0e23699c8ea2ae14e19c507972dc.jpg",
         "//img4.leboncoin.fr/ad-thumb/2dc83ab5075ec529d7ffdd8288503512f9e70fc2.jpg"
       ]
     },
@@ -1399,7 +1399,7 @@ const page1 = {
         "//img2.leboncoin.fr/ad-image/44d807abc03b2e09be0f41cad9c67a57678ea9cf.jpg"
       ],
       "images_thumbs": [
-        "//img7.leboncoin.fr/ad-thumb/8b66697d65fedf62aa80175a9d9175f686c8ca75.jpg",
+        "/images/8b66697d65fedf62aa80175a9d9175f686c8ca75.jpg",
         "//img4.leboncoin.fr/ad-thumb/957a72af922731c1f0a003a68a044637a4f1a78a.jpg",
         "//img7.leboncoin.fr/ad-thumb/cad3608e85d86e5591dc3bb454a5e0bc3841d3a1.jpg",
         "//img2.leboncoin.fr/ad-thumb/44d807abc03b2e09be0f41cad9c67a57678ea9cf.jpg"
@@ -1447,7 +1447,7 @@ const page1 = {
         "//img0.leboncoin.fr/xxl/2b7/2b7e82d6485e4d6f9e868d45362cb5eab7e13690.jpg"
       ],
       "images_thumbs": [
-        "//img0.leboncoin.fr/thumbs/2b3/2b3f73547ea28075a9b3b8dbe922c235f4845b6e.jpg",
+        "/images/2b3f73547ea28075a9b3b8dbe922c235f4845b6e.jpg",
         "//img5.leboncoin.fr/thumbs/7f2/7f2bbb3b48c6cc82e03cd2db87a0d002dde35052.jpg",
         "//img0.leboncoin.fr/thumbs/2b7/2b7e82d6485e4d6f9e868d45362cb5eab7e13690.jpg"
       ]
@@ -1493,7 +1493,7 @@ const page1 = {
         "//img5.leboncoin.fr/ad-large/d73f4ecc62395f99d772aa710b399cae3d4e6a32.jpg"
       ],
       "images_thumbs": [
-        "//img5.leboncoin.fr/ad-thumb/9fe6078caad20c9b6b3ca22e87df38cb093869bc.jpg",
+        "/images/9fe6078caad20c9b6b3ca22e87df38cb093869bc.jpg",
         "//img5.leboncoin.fr/ad-thumb/d73f4ecc62395f99d772aa710b399cae3d4e6a32.jpg"
       ]
     },
@@ -1539,7 +1539,7 @@ const page1 = {
         "//img4.leboncoin.fr/ad-large/9d4ba46792c385d7fa05809e8cf9695e5c835842.jpg"
       ],
       "images_thumbs": [
-        "//img3.leboncoin.fr/ad-thumb/a7b89736a80c0f6119f7957e4d543ea4dd971a1b.jpg",
+        "/images/a7b89736a80c0f6119f7957e4d543ea4dd971a1b.jpg",
         "//img5.leboncoin.fr/ad-thumb/7f8f4c0403639ac3a88830544a52c95bf6413c4f.jpg",
         "//img4.leboncoin.fr/ad-thumb/9d4ba46792c385d7fa05809e8cf9695e5c835842.jpg"
       ]
@@ -1584,7 +1584,7 @@ const page1 = {
         "//img5.leboncoin.fr/images/0d7/0d7e4b0f625566e937715cfccc42bf35063ae34b.jpg"
       ],
       "images_thumbs": [
-        "//img5.leboncoin.fr/images/0d7/0d7e4b0f625566e937715cfccc42bf35063ae34b.jpg"
+        "/images/0d7e4b0f625566e937715cfccc42bf35063ae34b.jpg"
       ]
     }
   ],
